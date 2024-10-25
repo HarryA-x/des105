@@ -20,6 +20,7 @@ public class HelloWorld : MonoBehaviour
     //Write a code that prints the age difference between two living things!
     int myAge = 88 ;
     int oldestTreeAge = 4855;
+    //Defined a new variable
 
 
 
